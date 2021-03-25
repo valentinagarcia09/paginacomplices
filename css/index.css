@@ -1,0 +1,248 @@
+body{
+  font-family: 'Nunito', sans-serif;
+  background-color: #F9D195;
+}
+
+div.logo-content{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+img.logo{
+  width: 35%;
+  content: right;
+
+}
+
+.navbar-nav{
+  margin: 0 auto;
+}
+
+.navbar-nav li{
+  background-color: white;
+  border: 4px solid #99E3Ec;
+  margin-right: 10px;
+  padding: 0px 50px;
+}
+
+div.about img{
+  transform: translateX(30px);
+}
+
+div.about p{
+  background-color: #99E3EC;
+  color: #947062;
+  padding: 15px;
+  font-family: sans-serif;
+  font-size: 30px;
+}
+
+.image-content img{
+  width: 95%;
+}
+
+.title-rounded{
+  border-radius: 10px 0px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  width: 70%;
+}
+
+.div-rounded{
+  border-radius: 20px 0px;
+  padding: 10px;
+}
+
+.img-content img{
+  width: 100%;
+  border: 4px solid white;
+}
+
+.img-content{
+  width: 250px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+a.btn-vermas{
+  width: 150px;
+  margin-top: 50px;
+  font-size: 22px;
+  border: 1px solid black;
+}
+
+#carouselExampleIndicators{
+  width: 70%;
+}
+
+.info-footer li{
+  list-style: none;
+}
+
+.tortas-content img{
+  width: 350px;
+  height: 232px;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.tortas-content .image-content{
+  text-align: center;
+}
+
+.tortas-content p{
+  color: rgb(104,57,26);
+}
+
+.tortas-content a.btn{
+  background-color: rgb(104,57,26);
+  color: white;
+}
+
+.title-torta{
+  color: #69BEC8;
+  border-bottom: 3px solid #69BEC8;
+}
+
+.btn-vermas:hover{
+  background-color:black;
+  color: white;
+}
+
+.postres-content .bg-blue{
+  background-color: #B5F3DA;
+}
+
+.postres-content .bg-pink{
+  background-color: #EDCED2;
+}
+
+.postres-content a{
+  background-color: rgb(104,57,26);
+  color: white;
+}
+
+.postres-content .price{
+  background-color: #F9D195;
+  color: rgb(104,57,26);
+  width: 100px;
+}
+
+.combos-content{
+  background-color: #EDCED2;
+}
+
+.card{
+  width: 700px;
+  margin: auto;
+}
+
+.inicio{
+  font-weight: 300;
+  text-align: center;
+}
+.usuario{
+  text-align: center;
+  border-radius: 2%;
+}
+
+.form-control{
+  min-height: 1.125rem;
+  line-height: initial;
+  text-align: center;
+}
+
+
+.login-content .image-content img{
+  width: 100%;
+}
+
+.form-login{
+  border: 10px solid white;
+  padding: 10px;
+}
+
+.form-login img{
+  width: 70%;
+}
+
+.form-login label{
+  color: rgb(104,57,26);
+}
+
+.form-login .btn-submit{
+  background-color: rgb(104,57,26);
+  color: white;
+}
+
+ul a.btn-logout{
+  background-color: rgb(104,57,26);
+  color: white;
+}
+
+.logo-description{
+  width: 20%;
+}
+
+.description-content h4,
+.description-content h3{
+  color: rgb(104,57,26);
+}
+
+.description-content hr{
+  height: 5px;
+    color: white;
+    opacity: 1;
+}
+
+.description-content p{
+  background-color: rgb(104,57,26);
+  color: white;
+  border: 10px solid white;
+  padding: 10px;
+}
+
+.description-content a{
+  background-color: rgb(104,57,26);
+  color: white;
+}
+
+.description-content img{
+  width: 100%;
+}
+
+
+.admin1-content img{
+  width: 50%;
+}
+
+.admin1-content p{
+  color: rgb(104,57,26);
+  font-size: 20px;
+}
+
+.admin1-content hr{
+  color: white;
+  opacity: 1;
+  height: 3px;
+  width: 180px;
+}
+
+.admin1-content .border{
+  border: 10px solid white !important;
+}
+
+.admin1-content a.crear{
+  color: rgb(104,57,26);
+  font-size: 25px;border-bottom: 5px solid white;
+  font-weight: bold;
+}
+
+.admin1-content a.cerrar{
+  background-color: rgb(104,57,26);
+  color: white;
+  font-size: 22px;
+  border-radius: 10px;
+}
+
